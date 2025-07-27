@@ -1,8 +1,3 @@
-# @usewaypoint/editor-sample
-
-Use this as a sample to self-host EmailBuilder.js.
-
-To run this locally, fork the repository and then in this directory run:
 
 - `npm install`
 - `npx vite`
